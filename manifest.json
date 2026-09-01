@@ -1,0 +1,9 @@
+{
+  "id": "tabprism",
+  "name": "TabPrism",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Color-code and style your workspace tabs and folder hierarchy dynamically based on note folder paths.",
+  "author": "W0ter",
+  "isDesktopOnly": false
+}
